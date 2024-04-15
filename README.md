@@ -8,6 +8,6 @@
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(I)">Advanced SAS (I)</a></li>
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(II)%20">Advanced SAS (II)</a></li>
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Oneshot%20(Crash%20Course)%20">SAS Oneshot (Crash Course)</a></li>
-        <li><a href="[https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(I)](https://github.com/KMGH19/SAS/tree/main/SAS%20Additional%20Resources%20(Certificate%20Prep%20guides%3B%20Guide%20books))">SAS Additional Resources (Certificate Prep guides; Guide books) </a></li>
+        <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Additional%20Resources%20(Certificate%20Prep%20guides%3B%20Guide%20books)">SAS Additional Resources (Certificate Prep guides; Guide books)</a></li>
     </ol>
 </section>
