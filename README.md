@@ -3,8 +3,8 @@
     <p>This repository is committed to providing SAS lessons and projects developed from a combination of resources available on the internet and my acquired expertise. It is for anyone who is seeking to learn/ enhance their SAS skills.</p>
     <p>The repository is organized into the following courses (subfolders):</p>
     <ol>
-        <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(I)">SAS Fundamentals (I)</a></li>
-        <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(II)%20">SAS Fundamentals (II)</a></li>
+        <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Fundamentals%20(I)">SAS Fundamentals (I)</a></li>
+        <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Fundamentals%20(II)%20">SAS Fundamentals (II)</a></li>
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(I)">Advanced SAS (I)</a></li>
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Advanced%20(II)%20">Advanced SAS (II)</a></li>
         <li><a href="https://github.com/KMGH19/SAS/tree/main/SAS%20Oneshot%20(Crash%20Course)%20">SAS Oneshot (Crash Course)</a></li>
